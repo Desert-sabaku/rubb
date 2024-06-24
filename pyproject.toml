@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "rubb"
+version = "0.1.0"
+description = "Rubbish navigation: Web application that leads to a solution to the littering problem"
+authors = ["Kagawa Kosen"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django4django = "^0.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
