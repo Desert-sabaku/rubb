@@ -7,7 +7,5 @@ Django を用いた Web apps のひな型です。
 |            | frontend(UI, etc.) | backend(AI, map API) |
 | ---------- | ------------------ | -------------------- |
 | lang       | Python             | Python               |
-| framework  | Django             | ?                    |
+| framework  | HTML/CSS/Django    | Django               |
 | assignment | ?                  | ?                    |
-
-(アルファベットで書かないとrawがそろわないので…)
