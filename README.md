@@ -1,6 +1,6 @@
 # RUBB
 
-FastAPI を用いた Web apps のひな型です。
+FastAPIを用いたWeb appsのひな型です。
 
 まだ何もしていないし、試用なので予告なく消すかもしれません。
 
@@ -9,7 +9,7 @@ FastAPI を用いた Web apps のひな型です。
 2. `docker compose up --build` を実行する。
 
 ## 役割
- | AI       | FrontEnd | Backend  |
+| AI       | FrontEnd | Backend  |
 | -------- | -------- | -------- |
 | Iwamoto, | Makino   | Matumoto |
 | Takahata | Kita     | Fujihara |
